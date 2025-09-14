@@ -1,0 +1,27 @@
+﻿name: base
+channels:
+  - defaults
+dependencies:
+  - _anaconda_depends
+  - python=3.11
+  - setuptools
+  - pip
+  - wheel
+  - anaconda-catalogs
+  - anaconda-client
+  - anaconda-project
+  - anaconda-navigator==2.6.4
+  - conda
+  - conda-build
+  - conda-content-trust
+  - conda-libmamba-solver
+  - conda-pack
+  - conda-package-handling
+  - conda-package-streaming
+  - conda-token
+  - conda-verify
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - anaconda-toolbox
+prefix: C:\Users\HP\anaconda3
